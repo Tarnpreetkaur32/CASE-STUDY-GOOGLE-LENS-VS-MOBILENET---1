@@ -1,0 +1,26 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/d7/9c/ca/d79ccafd74656cb9f1e5374ddcd14b80.jpg");   
+    font-family: 'Solway', serif;   
+    color:black;
+}
+.output{
+    color: crimson;
+}
+.mma{
+    color: blue;
+}
+.test{
+color: #9d00ff;
+}
+.bottom_div{
+    width: 1000px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: black;
+    border: 2px 2px dashed black;
+}
+img {  
+    width: 100px;  
+    height: 300px;  
+    }  
+    
